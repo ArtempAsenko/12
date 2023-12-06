@@ -2,11 +2,11 @@
     width: 800px;
     height: 600px;
     background-color: white;
-    background-image: url(/photo_2023-12-05_20-41-40.jpg),
-    url(/photo_2023-12-05_20-41-45.jpg),
-    url(/photo_2023-12-05_20-41-48.jpg),
-    url(/photo_2023-12-05_20-41-45.jpg),
-    url(/photo_2023-12-05_20-41-48.jpg);
+    background-image: url(../photo_2023-12-05_20-41-40.jpg),
+    url(../photo_2023-12-05_20-41-45.jpg),
+    url(../photo_2023-12-05_20-41-48.jpg),
+    url(../photo_2023-12-05_20-41-45.jpg),
+    url(../photo_2023-12-05_20-41-48.jpg);
     background-repeat: no-repeat, repeat-x ,repeat-y , repeat-x, repeat-y ;
     background-size: 200px , 100px , 100px , 100px, 100px;
     background-position: center, top , top right , bottom , top left ;
